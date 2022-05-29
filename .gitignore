@@ -1,0 +1,9 @@
+
+/backend_sanity/config
+/backend_sanity/node_modules
+/backend_sanity/plugins
+/backend_sanity/static
+/backend_sanity/sanity.json
+/backend_sanity/yarn.lock
+/backend_sanity/tsconfig.json
+
